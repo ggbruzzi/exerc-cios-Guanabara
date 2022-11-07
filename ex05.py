@@ -18,6 +18,4 @@ def verifica_numero() :
     else :
         print('O número {} não é primo'.format(n))
 
-
-
 main()
