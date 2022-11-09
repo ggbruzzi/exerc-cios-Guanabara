@@ -1,2 +1,1 @@
-# exerc-cios-Guanabara
-# Exercícios do Curso em Vídeo.
+# alguns exercícios do curso em vídeo do Guanabara melhorados .
